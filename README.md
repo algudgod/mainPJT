@@ -2,7 +2,7 @@
 
 ![Untitled (1)](https://github.com/kmduuu/mainPJT/assets/120400092/1c184d70-9a3d-4f9d-a528-f24cc46afc6e)
 
-- 배포 URL : http://www.yaguroute.com(현재는 서버가 종료되었습니다.)
+- 배포 URL : http://www.yaguroute.com (현재는 서버가 종료되었습니다.)
 - Test ID : admin  
 - Test PW : 1234
 
