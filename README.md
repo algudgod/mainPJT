@@ -20,8 +20,6 @@
 
 - **사용 기술**
     
-    (제가 사용한 기술은 볼드와 기울임 표시 하였습니다)
-    
     ✅ **OS**
     
     - **windows 10, Ubuntu 20.04(Naver Cloud Server)**
@@ -33,7 +31,7 @@
     socket.io-client, **DropZone**
     
     ✅ **Back End**
-    
+  
     - 언어 : **Java, javascript**
     - Framework :  **Spring, MyBatis, Sping Boot**, Node.js, Express
     - API : **JDBC, Tomcat, log4j, jUnit, Selenium**, Soket.IO, nodemon, awssdk&multer-s3(Object Storage), multer, mongoose. aws-java-sdk-s3
