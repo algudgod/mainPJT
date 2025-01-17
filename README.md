@@ -75,23 +75,6 @@
 
 ![image](https://github.com/kmduuu/mainPJT/assets/120400092/0aed40c3-9138-4e4f-a72d-34fcacb6d12e)
 
-<br>
+<br><br><br>
 
-## 4. 개발 기간 및 작업 관리
-
-### 개발 기간
-
-![image](https://github.com/kmduuu/mainPJT/assets/120400092/ee33d0f2-7c93-4e6c-bf65-36c655d251ca)
-
-- 분석 2주, 설계 2주, 구현을 5주로 정하고, 총 9주동안 프로젝트를 진행하였습니다.
-
-<br>
-
-### 작업 관리
-
-- Notion과 Discord를 통해 진행 상황을 공유하고, 혼자 해결하기 어려운 문제가 발생하면 문제를 공유하고 서로 의논했습니다.
-  
-![image](https://github.com/kmduuu/mainPJT/assets/120400092/4df9b41f-d6f3-405d-8f6c-b587cd9e2880)
-
-<br>
 
